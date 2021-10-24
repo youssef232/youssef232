@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Youssef Mostafa
 - 👀 I’m interested in mobile applications & Algorithms.
-- 🌱 I’m currently learning mobile application using flutter
-- 📫 How to reach me my gmail.com : ymostafa232@gmail.com
+- 📫 How to reach me my gmail.com : ymostafa232@gmail.com /n
                       my phone: +201024750277
 
 <!---
