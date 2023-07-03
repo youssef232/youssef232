@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Mostafa</h1>
-<h3 align="center">A passionate Back-end Engineer & Machine Learning from Egypt</h3>
+<h3 align="center">A passionate Computer vision/deep learning Engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef232&label=Profile%20views&color=0e75b6&style=flat" alt="youssef232" /> </p>
 
