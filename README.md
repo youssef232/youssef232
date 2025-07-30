@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Youssef Mostafa</h1>
-<h3 align="center">A passionate Computer vision/deep learning Engineer from Egypt</h3>
+<h3 align="center">A passionate AI Engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef232&label=Profile%20views&color=0e75b6&style=flat" alt="youssef232" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssef232" alt="youssef232" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Deployment**
 
 - 📫 How to reach me **ymostafa232@gmail.com**
 
